@@ -3,13 +3,13 @@ Ainda não está pronto!
 
 Para flash wiriter (não pronto) links:
 
-https://dhuimanaca.github.io/cfw486/index_nand.html
+dhuimanaca.github.io/cfw486/index_nand.html
 
-https://dhuimanaca.github.io/cfw486/index_nand_hdd.html
+dhuimanaca.github.io/cfw486/index_nand_hdd.html
 
-https://dhuimanaca.github.io/cfw486/index_nor.html
+dhuimanaca.github.io/cfw486/index_nor.html
 
-https://dhuimanaca.github.io/cfw486/index_nor_hdd.html
+dhuimanaca.github.io/cfw486/index_nor_hdd.html
 
 <br/>
 [3.56 and Lower Minimum Version Supported]
